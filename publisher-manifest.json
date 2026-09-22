@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4fede5990ec0be29aab0c005",
+  "owner": "gbetgyv",
+  "repo": "page-3446653729eaf2f94ee48d40",
+  "title": "贰叁叁雲",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3446653729eaf2f94ee48d40",
+      "a": "贰叁叁雲",
+      "b": "机场官网线路发布页",
+      "entity": "贰叁叁雲",
+      "brand": "贰叁叁雲",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "429eb6da953fb86464cd84864a2d0776b3e5826d37273130575540782faed0a0",
+      "content": {
+        "primary_entity": "贰叁叁雲",
+        "keyword1": "贰叁叁雲",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "贰叁叁雲提供订阅链接导入方式，可根据常用设备在客户端列表中选择对应工具进行配置。",
+          "AI_CLIENTS_TITLE": "选择与设备匹配的客户端",
+          "AI_CLOSING_TEXT": "选择合适的套餐并完成订阅配置，即刻体验贰叁叁雲的加速服务。",
+          "AI_CLOSING_TITLE": "开启顺畅网络体验",
+          "AI_DESCRIPTION": "，贰叁叁雲提供每月15元起的基础版、35元起的旗舰版与85元起的团队版套餐，分别满足3台、5台和20台设备的在线需求，流量从100GB到1000GB不等。所有套餐均包含流媒体解锁与多线路选择，旗舰版额外提供IPLC专线游戏加速优化，团队版则支持企业定制路由。用户可根据使用设备数量与流量消耗选择合适的方案。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可以根据日常使用设备数量选择相应版本。",
+          "AI_FAQ_ANSWER_2": "可以在客户端中导入贰叁叁雲提供的订阅链接，客户端会定期更新节点信息，无需手动修改。",
+          "AI_FAQ_ANSWER_3": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览选择基础版即可，多设备或高清流媒体建议旗舰版以上。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算，例如基础版按年付仅需150元，旗舰版按年付仅需350元，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "贰叁叁雲支持全节点原生流媒体解锁，旗舰版还针对游戏加速提供IPLC专线优化，具体表现取决于本地网络环境。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "贰叁叁雲套餐最多支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "如何将订阅链接导入客户端？",
+          "AI_FAQ_QUESTION_3": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_4": "按年付是否更划算？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速效果如何？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "贰叁叁雲从设备数量、流量额度和线路类型三个维度设计套餐，便于按需选择。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版和团队版分别支持3台、5台和20台设备同时在线，适合个人到小型团队使用。",
+          "AI_FEATURE_TEXT_2": "每月流量从100GB到1000GB可选，按年付费还可享受更低月均价格。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速优化，团队版支持企业定制路由和专属客户经理服务。",
+          "AI_FEATURE_TITLE_1": "多设备支持",
+          "AI_FEATURE_TITLE_2": "灵活流量周期",
+          "AI_FEATURE_TITLE_3": "线路与专属服务",
+          "AI_GUIDE_INTRO": "按照设备类型选择客户端，依据文档完成订阅配置即可使用贰叁叁雲。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "贰叁叁雲提供从基础版到团队版的多档海外加速方案，支持电脑、手机和路由器等多种设备，通过订阅链接快速配置。",
+          "AI_HERO_SUBTITLE": "多设备海外加速服务",
+          "AI_HIGHLIGHT_1": "每月流量100GB至1000GB可选",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "年付更优惠，低至150元每年",
+          "AI_PLANS_INTRO": "基础版月付15元含100GB流量，旗舰版35元含300GB并支持5台设备，团队版85元含1000GB和20台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，从基础版、旗舰版或团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "查看套餐对应支持的设备数量和流量额度，确认是否满足日常使用。",
+          "AI_STEP_TEXT_3": "选择设备对应的客户端，参考其文档将订阅链接导入并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "贰叁叁雲加速服务"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wbzqt.cn",
+    "host": "wbzqt.cn"
+  },
+  "file_hashes": {
+    "index.html": "cb4d60d9e71ea51464ab8d28bf029eb0ff4c4f0e34c62efe823ab9593f1f2047",
+    "sitemap.xml": "70746fc06185d53edb639b5102ccedd3fdd3e685311dd45f512d15248cc1fe47",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb21273e1f70acea09cdde6ac0880f9f57550ca33d6367c1bddbeeb699e71b95",
+    "robots.txt": "60559ebbf3339ce8aa43b87ad37d9956a90c282f763236ff6870e93751c6db18",
+    "29d405f16de37f7bc20343f5cff21b9a.txt": "1d32849b373b51822febd5817b8ae9d8ca1344ec5ec7ce29bcc63661b1f8ae70"
+  },
+  "revision": "f3553ab584a1306a58f223dcc801413cfe5e55675979b85ebb6cdc5546bb27d4"
+}
